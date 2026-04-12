@@ -4,6 +4,11 @@
 
 This project analyzes the Austrian citizenship application process using a self-collected dataset based on a real applicant experience. The goal is to identify key challenges related to time, cost and procedural complexity.
 
+## Full Case Study
+
+You can view the complete report here:
+
+[Download PDF](./citizenship_case_study.pdf)
 ---
 
 ## About Me
@@ -69,12 +74,6 @@ The analysis focuses on identifying:
 The dataset was cleaned and standardized using Excel. Python was used to explore the data and calculate grouped summaries using pandas. SQL was used to query the dataset, calculate totals and averages and generate summary tables.
 
 ---
-
-## Full Case Study
-
-You can view the complete report here:
-
-[Download PDF](./citizenship_case_study.pdf)
 
 ---
 
