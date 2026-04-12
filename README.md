@@ -45,7 +45,7 @@ The analysis focuses on identifying:
 
 - Waiting periods account for the majority of total process time  
 - Costs are concentrated in legal requirements and final approval  
-- The most complex steps involve legal, financial, and cross-border processes  
+- The most complex steps involve legal, financial and cross-border processes  
 - Time and difficulty are not directly correlated  
 - External dependencies (Kosovo) significantly increase process duration  
 
