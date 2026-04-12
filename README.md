@@ -2,13 +2,13 @@
 
 ## A Data Analysis of Time, Cost, and Bureaucratic Complexity
 
-This project analyzes the Austrian citizenship application process using a self-collected dataset based on a real applicant experience. The goal is to identify key challenges related to time, cost, and procedural complexity.
+This project analyzes the Austrian citizenship application process using a self-collected dataset based on a real applicant experience. The goal is to identify key challenges related to time, cost and procedural complexity.
 
 ---
 
 ## About Me
 
-I am a Digital Humanities student at the University of Vienna with a strong interest in data analysis, organization, and real-world problem solving.  
+I am a Digital Humanities student at the University of Vienna with a strong interest in data analysis, organization and real-world problem solving.  
 
 This project reflects my ability to transform a personal, complex bureaucratic experience into a structured data analysis using multiple tools.
 
@@ -28,7 +28,7 @@ The analysis focuses on identifying:
 - the most time-consuming stages  
 - the most costly requirements  
 - the most complex steps  
-- relationships between time, cost, and difficulty  
+- relationships between time, cost and difficulty  
 
 ---
 
@@ -66,7 +66,7 @@ The analysis focuses on identifying:
 
 ##  Process
 
-The dataset was cleaned and standardized using Excel. Python was used to explore the data and calculate grouped summaries using pandas. SQL was used to query the dataset, calculate totals and averages, and generate summary tables.
+The dataset was cleaned and standardized using Excel. Python was used to explore the data and calculate grouped summaries using pandas. SQL was used to query the dataset, calculate totals and averages and generate summary tables.
 
 ---
 
@@ -80,4 +80,4 @@ You can view the complete report here:
 
 ## Case Study Summary
 
-This case study examines the Austrian citizenship process using a self-collected dataset of 17 steps. The analysis was conducted using Excel, Python, and SQL to identify patterns in time, cost, and complexity. The findings show that waiting periods dominate total duration, costs are concentrated in legal and final stages, and the most difficult steps involve legal and financial requirements. The project demonstrates the ability to collect, clean, analyze, and communicate data-driven insights.
+This case study examines the Austrian citizenship process using a self-collected dataset of 17 steps. The analysis was conducted using Excel, Python, and SQL to identify patterns in time, cost and complexity. The findings show that waiting periods dominate total duration, costs are concentrated in legal and final stages and the most difficult steps involve legal and financial requirements. The project demonstrates the ability to collect, clean, analyze and communicate data-driven insights.
