@@ -74,7 +74,7 @@ The dataset was cleaned and standardized using Excel. Python was used to explore
 
 You can view the complete report here:
 
-[Download PDF](Navigating%20Austrian%20Citizenship%20Independently_Agron_Aziri.pdf)
+[Download PDF](citizenship%20case%20study.pdf)
 
 ---
 
