@@ -6,7 +6,7 @@ This project analyzes the Austrian citizenship application process using a self-
 
 ---
 
-## 👤 About Me
+## About Me
 
 I am a Digital Humanities student at the University of Vienna with a strong interest in data analysis, organization, and real-world problem solving.  
 
@@ -80,7 +80,9 @@ You can view the complete report here:
 
 ##  Project Structure
 citizenship-case-study/
+
 │
+
 ├── README.md
 ├── citizenship_analysis.py
 ├── sql_queries.sql
