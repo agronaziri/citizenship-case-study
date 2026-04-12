@@ -32,7 +32,7 @@ The analysis focuses on identifying:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Excel** → data collection, cleaning, visualization  
 - **Python (pandas)** → data exploration and grouped analysis  
@@ -78,6 +78,6 @@ You can view the complete report here:
 
 ---
 
-- ## Case Study Summary
+## Case Study Summary
 
 This case study examines the Austrian citizenship process using a self-collected dataset of 17 steps. The analysis was conducted using Excel, Python, and SQL to identify patterns in time, cost, and complexity. The findings show that waiting periods dominate total duration, costs are concentrated in legal and final stages, and the most difficult steps involve legal and financial requirements. The project demonstrates the ability to collect, clean, analyze, and communicate data-driven insights.
